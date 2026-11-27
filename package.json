@@ -1,0 +1,8 @@
+{
+  "name": "parking-slot-booking-system",
+  "version": "1.0.0",
+  "description": "A full-stack parking slot booking and vehicle management system",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
